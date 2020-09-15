@@ -9,7 +9,7 @@
 	<body>
 	<table style="color: green" border="0" width="100%">
 	<tr width="100%"><td width="100%" style="text-align: center;"><h1>Welcome to Bookzy Book Shop</h1></rd></tr>
-	<tr width="100%"><td width="100%" style="text-align: center;"><h3>Thimphu, Bhutan</h3></rd></tr>	</table>
+	<tr width="100%"><td width="100%" style="text-align: center;"><h3>Thimphu, Bhutan.</h3></rd></tr>	</table>
 		
 		<h2 style="text-align:center"> Bookzy - the only online book shop in the country!</h2>
 		<hr />
