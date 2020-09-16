@@ -12,7 +12,7 @@ class MavenApplicationTests {
 	void contextLoads() {
 		int a=2;
 		int b=2;
-		assertTrue(a+b==3);
+		assertTrue(a+b==4);
 	}
 
 }
