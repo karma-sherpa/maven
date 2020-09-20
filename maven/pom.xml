@@ -11,6 +11,7 @@
 	<groupId>bt.gov.springboot.maven</groupId>
 	<artifactId>maven</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>maven</name>
 	<description>Demo project for Spring Boot maven</description>
 
